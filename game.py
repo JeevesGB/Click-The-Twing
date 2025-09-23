@@ -1,10 +1,17 @@
+import os 
 import tkinter as tk
 from PIL import Image, ImageTk
 
 root = tk.Tk()
 root.title("Click The Twing")
-root.iconbitmap("thegrin.ico")
 root.geometry("400x400")
+
+ico_path = "thegrin.ico"  
+if os.path.exists(ico_path):
+    root.iconbitmap(ico_path)
+else:
+    print(f"Warning: Icon file '{ico_path}' not found. Using default window icon.")
+
 counter = 0
 frame_index = 0
 animating = False 
