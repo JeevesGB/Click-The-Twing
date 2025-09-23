@@ -5,7 +5,7 @@ a = Analysis(
     ['game.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[('thegrin.png', '.'), ('thegrin2.png', '.'), ('thegrin3.png', '.'), ('thegrin4.png', '.'), ('thegrin5.png', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
