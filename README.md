@@ -3,7 +3,7 @@
 A simple and silly little Twingo clicker game. 
 ---
 
-[![Click The Twingo](https://img.itch.zone/aW1nLzI5ODk0NTcuZ2lm/original/abcd123.gif)](https://jeevesgb.itch.io/click-the-twingo)
+ [Play *Click The Twingo* on itch.io](https://jeevesgb.itch.io/click-the-twingo)
 
 
 ## Features
