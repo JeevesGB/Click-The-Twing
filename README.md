@@ -3,6 +3,8 @@
 A simple and silly little Twingo clicker game. 
 ---
 
+<iframe frameborder="0" src="https://itch.io/embed/3904269?linkback=true&amp;bg_color=63c64d&amp;fg_color=000000&amp;link_color=327345&amp;border_color=63c64d" width="552" height="167"><a href="https://jeevesgb.itch.io/click-the-twingo">Click The Twingo by JEJ</a></iframe>
+
 ## Features
 
 - Click a button to increase your score.
